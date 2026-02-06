@@ -14,8 +14,8 @@ This is a Python-based chat application designed for multiple clients to communi
 
 1. **Clone the repository**
 
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/Its-seren/chat_app.git
+cd chat_app
 
 2. **Install Required Python Packages**
 
